@@ -10,3 +10,4 @@ Jupyter
 Pandas
 PowerBI
 QGIS
+Excel

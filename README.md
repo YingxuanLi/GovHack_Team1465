@@ -6,3 +6,7 @@
 
 
 ## Tools
+Jupyter
+Pandas
+PowerBI
+QGIS

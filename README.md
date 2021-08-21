@@ -7,8 +7,8 @@
 
 ## Tools
 
-Jupyter
-Pandas
-PowerBI
-QGIS
-Excel
+* Jupyter
+* Pandas
+* PowerBI
+* QGIS
+* Excel

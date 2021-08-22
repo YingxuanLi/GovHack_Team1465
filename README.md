@@ -1,7 +1,7 @@
 # GovHack_Team 0% risk
 
 
-## Data Story
+
 We used the QLD crash locations dataset to try and analyse and investigate various factors contributing to traffic accidents and road fatalities
 
 ## Evidence of Work

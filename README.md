@@ -6,7 +6,9 @@ We used the QLD crash locations dataset to try and analyse and investigate vario
 
 ## Evidence of Work
 * Graph showing the top50 worst suburb (in relation to traffic accident) in QLD
+* Filled map showing the suburb 
 * Filled map showing traffic camera and fatality location (Group by year)
+* Crash nature and description
 
 ## Tools
 

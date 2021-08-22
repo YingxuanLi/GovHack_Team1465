@@ -9,7 +9,7 @@ We used the QLD crash locations dataset to try and analyse and investigate vario
 * Filled map showing the suburb 
 * Filled map showing traffic camera and fatality location (Group by year)
 * Crash nature and description
-* Deatailed slides: https://docs.google.com/presentation/d/1DuHxbAczuEWYTvNZRDLXp38QPyLI1abQBdjuHaa967c/edit#slide=id.p
+* Detailed slides: https://docs.google.com/presentation/d/1DuHxbAczuEWYTvNZRDLXp38QPyLI1abQBdjuHaa967c/edit#slide=id.p
 ## Tools
 
 * Jupyter
